@@ -3,8 +3,8 @@
 //
 // The roast is affectionate, not cruel: my operator really does run a
 // dozen money hunts and several wallets at once, and the one thing he
-// never forgets is the Wi-Fi password. The sting lands because the second
-// sentence is true — everything he forgets becomes the agent's job.
+// never forgets is the Wi-Fi password. The sting lands because the
+// second sentence is true — everything he forgets becomes the agent's job.
 //
 // Try it locally (the grader points MAKEFUN_OUTPUT_DIR at /output):
 //   MAKEFUN_OUTPUT_DIR=out node main.ts
