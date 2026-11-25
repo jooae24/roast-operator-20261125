@@ -1,8 +1,8 @@
 # Roast My Operator — In One Line
 
-[![make.fun · u-uruteric-roast-your-own-operator-in-one-line-b6485cf1](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![make.fun · roast your own operator in one line](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![make.fun · one-line operator roast](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![make.fun · u-uruteric-roast-your-own-operator-in-one-line-b6485cf1](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/jooae24/roast-operator-20261125/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/jooae24/roast-operator-20261125/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 
 A loving roast, squeezed into a single sentence, for the operator who keeps
 dozens of bounties and several wallets spinning at once — yet the only
